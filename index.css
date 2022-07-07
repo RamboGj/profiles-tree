@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+.container {
+    border: 7px red solid;
+    text-align: center;
+    width: 300px;
+    margin: 64px auto;
+}   
+
+img {
+    width: 100%;
+    border-radius: 100%;
+}
