@@ -4,5 +4,6 @@ Change the app themes by changing body class attribute.
 
 
 ### Themes:
-dark
-dark-pink
+**default: no class name*.*
+**dark**
+**dark-pink**
